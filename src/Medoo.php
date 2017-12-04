@@ -13,7 +13,7 @@ namespace Medoo;
 use PDO;
 use Exception;
 use PDOException;
-use Raw;
+use Medoo\Raw;
 
 class Medoo
 {
